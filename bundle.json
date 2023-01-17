@@ -1,0 +1,12 @@
+{
+  "{EF9848DE-D5B9-4E7A-B24F-618699AE7DD3}": {
+    "source": "{\r\n    \"main\": \"./index.js\"\r\n}",
+    "mapping": {},
+    "path": "{sample}/package.json"
+  },
+  "{167D9CB0-33A0-4746-B14A-3AF1E8FF8511}": {
+    "source": "console.log('sample')",
+    "mapping": {},
+    "path": "{sample}/index.js"
+  }
+}
